@@ -1,0 +1,14 @@
+E:\Programming\Vscode stuff\Adventofcodday1\adventofcode1\bin\Debug\net8.0\adventofcode1.exe
+E:\Programming\Vscode stuff\Adventofcodday1\adventofcode1\bin\Debug\net8.0\adventofcode1.deps.json
+E:\Programming\Vscode stuff\Adventofcodday1\adventofcode1\bin\Debug\net8.0\adventofcode1.runtimeconfig.json
+E:\Programming\Vscode stuff\Adventofcodday1\adventofcode1\bin\Debug\net8.0\adventofcode1.dll
+E:\Programming\Vscode stuff\Adventofcodday1\adventofcode1\bin\Debug\net8.0\adventofcode1.pdb
+E:\Programming\Vscode stuff\Adventofcodday1\adventofcode1\obj\Debug\net8.0\adventofcode1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\Vscode stuff\Adventofcodday1\adventofcode1\obj\Debug\net8.0\adventofcode1.AssemblyInfoInputs.cache
+E:\Programming\Vscode stuff\Adventofcodday1\adventofcode1\obj\Debug\net8.0\adventofcode1.AssemblyInfo.cs
+E:\Programming\Vscode stuff\Adventofcodday1\adventofcode1\obj\Debug\net8.0\adventofcode1.csproj.CoreCompileInputs.cache
+E:\Programming\Vscode stuff\Adventofcodday1\adventofcode1\obj\Debug\net8.0\adventofcode1.dll
+E:\Programming\Vscode stuff\Adventofcodday1\adventofcode1\obj\Debug\net8.0\refint\adventofcode1.dll
+E:\Programming\Vscode stuff\Adventofcodday1\adventofcode1\obj\Debug\net8.0\adventofcode1.pdb
+E:\Programming\Vscode stuff\Adventofcodday1\adventofcode1\obj\Debug\net8.0\adventofcode1.genruntimeconfig.cache
+E:\Programming\Vscode stuff\Adventofcodday1\adventofcode1\obj\Debug\net8.0\ref\adventofcode1.dll
